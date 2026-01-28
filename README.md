@@ -3,8 +3,8 @@ This portfolio showcases projects that leverage automation and data visualizatio
 This portfolio can also be viewed by visiting:
 
 This portfolio can also be viewed by visiting:
-- [https://nootherthandat.github.io/Automation_Data_Visualization_Portfolio/](https://nootherthandat.github.io/Automation_Data_Visualization_Portfoli/)
-- [https://github.com/nootherthandat/Automation_Data_Visualization_Portfolio](https://github.com/nootherthandat/Automation_Data_Visualization_Portfoli)
+- [https://nootherthandat.github.io/Automation_Data_Visualization_Portfolio/](https://nootherthandat.github.io/Automation_Data_Visualization_Portfolio/)
+- [https://github.com/nootherthandat/Automation_Data_Visualization_Portfolio](https://github.com/nootherthandat/Automation_Data_Visualization_Portfolio)
 
 ### Jump to Section
 - [About me](#about-me) 
